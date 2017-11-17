@@ -1,4 +1,4 @@
-# Insagram
+# Instagram
 <ol>
 <li>Get Recent Media Instagram User</li>
 <li>You need User-Id and access token to access the recent media of instagram profile.</li>
