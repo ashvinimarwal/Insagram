@@ -1,4 +1,10 @@
 # Instagram
+<ul>
+  <li>Get Recent Media of Instagram User</li>
+  <li>Get User Information of Instagram User</li>
+</ul>
+
+<h2>How to Get Access token and User Id</h2>
 <ol>
 <li>Get Recent Media Instagram User</li>
 <li>You need User-Id and access token to access the recent media of instagram profile.</li>
