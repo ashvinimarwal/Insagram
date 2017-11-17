@@ -1,13 +1,13 @@
 # Insagram
 <ol>
-  <li>Get Recent Media Instagram User</li>
+<li>Get Recent Media Instagram User</li>
 <li>You need User-Id and access token to access the recent media of instagram profile.</li>
 <li>Visit to Instagram Developer section after login into instagram. https://www.instagram.com/developer/ </li>
 <li>Click on manage account and create or manage client. </li>
-<li><li>Fill all the details and submit.</li>
+<li>Fill all the details and submit.</li>
 <li>You can apply for persmission to access other users recent media.</li>
 <li>You don't need to appply for any permission to access your own account media.</li>
-  </ol>
+</ol>
 Thanks
 
 # Author
